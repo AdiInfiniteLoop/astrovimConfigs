@@ -1,13 +1,5 @@
-# THIS REPOSITORY IS ARCHIVED, OUTDATED, AND NO LONGER VALID
-
-## Please refer to the [AstroNvim Documentation](https://docs.astronvim.com/) for the latest instructions
-
----
-
-# AstroNvim User Configuration Example
-
-A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
-
+## READ INTO astro community and modify the ~/.config/nvim as per your use
+# Prerequisites:  Know a little about lua
 ## 🛠️ Installation
 
 #### Make a backup of your current nvim and shared folder
